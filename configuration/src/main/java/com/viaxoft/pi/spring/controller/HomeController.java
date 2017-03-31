@@ -11,6 +11,6 @@ public class HomeController {
 
 		model.addAttribute("name", "John Doe");
 
-		return "welcome";
+		return "home";
 	}
 }
