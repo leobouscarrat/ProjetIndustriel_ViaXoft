@@ -14,7 +14,7 @@
 	</head>
 
 	<body>
-		<div class="container home-page">
+		<div class="home-page">
 			<div class="row">
 			
 				<button type="button" class="btn btn-success">
