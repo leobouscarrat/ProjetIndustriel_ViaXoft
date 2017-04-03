@@ -6,15 +6,24 @@
 
 	<head>
 	
-		<link rel='stylesheet' href='webjars/bootstrap/3.1.0/css/bootstrap.min.css'>
+		<link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
+		<link rel='stylesheet' href='css/main.css'>
+		
+		<title>Survey</title>
 		
 	</head>
 
 	<body>
-		<button type="button" class="btn btn-success">
-			<span class="glyphicon glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
-			Créer
-		</button>
+		<div class="container home-page">
+			<div class="row">
+			
+				<button type="button" class="btn btn-success">
+					<span class="glyphicon glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+					Créer
+				</button>
+				
+			</div>
+		</div>
 	</body>
 	
 </html>
